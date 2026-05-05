@@ -31,3 +31,11 @@ a:hover {
   margin-top: 10px;
   border-radius: 10px;
 }
+
+.project-card h3 {
+  margin: 0;
+}
+
+.project-card p {
+  margin: 5px 0 0;
+}
