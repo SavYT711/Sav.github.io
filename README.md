@@ -13,6 +13,7 @@ This page is the landing page to my repo that will have links to my other future
 
 What languages i know so far:
 
+* VB.net
 * Python
 * Ruby
 * HTML

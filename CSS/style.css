@@ -112,8 +112,10 @@ a:hover {
 /* ---- Navbar ---- */
 .navbar {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: center;
   align-items: center;
+  gap: 12px;
   background: rgba(8, 13, 26, 0.85);
   backdrop-filter: blur(14px);
   -webkit-backdrop-filter: blur(14px);
