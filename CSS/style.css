@@ -39,3 +39,26 @@ a:hover {
 .project-card p {
   margin: 5px 0 0;
 }
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #020617;
+  padding: 15px 30px;
+  position: sticky;
+  top: 0;
+}
+
+.navbar a {
+  margin-left: 15px;
+  color: #e2e8f0;
+}
+
+.navbar a:hover {
+  color: #38bdf8;
+}
+
+section {
+  margin-top: 40px;
+}
