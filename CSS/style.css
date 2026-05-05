@@ -1,3 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  margin-top: 60px;
+}
+
+section h1 {
+  margin-bottom: 10px;
+}
+
 body {
   font-family: Arial, sans-serif;
   background-color: #0f172a;
@@ -45,9 +57,10 @@ a:hover {
   justify-content: space-between;
   align-items: center;
   background: #020617;
-  padding: 15px 30px;
+  padding: 15px 40px;
   position: sticky;
   top: 0;
+  z-index: 1000;
 }
 
 .navbar a {
