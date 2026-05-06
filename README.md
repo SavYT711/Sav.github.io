@@ -3,9 +3,11 @@
 
 This page is the landing page to my repo that will have links to my other future projects. 
 
-## Future Projects
+## Future Projects/Ideas
 
 * Jellyfin iOS client
+* AR + Radio station MC Mod
+* NextTrailer
 * University Projects (Ruby)
 
 
