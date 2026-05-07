@@ -1,7 +1,14 @@
 [
     {
+        "title": "Helmet HUD Mod",
+        "description": "A mod for Minecraft that adds a HUD to custom helmets, primarily focused for Create Aeronautics and Space mods.",
+        "link": "projects/HelmetHUDMod.html"
+    },
+
+    {
         "title": "NextTrailer",
         "description": "A netflix like next up mini player for Jellyfin",
         "link": "projects/nexttrailer.html"
     }
+
 ]

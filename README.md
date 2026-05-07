@@ -1,7 +1,11 @@
 # Sav.github.io
 # Project Page
 
-This page is the landing page to my repo that will have links to my other future projects. 
+ 
+
+## Projects in Development
+
+* **Helmet HUD Mod** - (https://github.com/SavYT711/HUD-Mod) - A mod for Minecraft that adds a HUD to custom helmets, primarily focused for Create Aeronautics and Space mods. 
 
 ## Future Projects/Ideas
 
@@ -13,7 +17,7 @@ This page is the landing page to my repo that will have links to my other future
 
 ## Programming Languages
 
-What languages i know so far:
+What languages I know so far:
 
 * VB.net
 * Python
